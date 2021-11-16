@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">"Крестики-Нолики"</string>
+    <string name="gameName">Игра \"Крестики-нолики\"</string>
+    <string name="questionStartGame">Начать игру?</string>
+    <string name="start">Старт!</string>
+    <string name="exit">Выйти</string>
+
+    <string name="turnX">Ход игрока \"X\"</string>
+    <string name="turnO">Ход игрока \"O\"</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="playAnotherGame">Сыграть ещё раз!</string>
+    <string name="restart">Начать заново</string>
+</resources>
